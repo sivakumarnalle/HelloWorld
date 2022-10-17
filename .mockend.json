@@ -3,7 +3,7 @@
     "files": {
       "fileName": {
         "id": {
-          "regexp": "[0-9]{5}[a-z]{10}"
+          "regexp": "[0-9]{5}"
         }
       }
     }
